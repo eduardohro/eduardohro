@@ -32,8 +32,8 @@ Um relógio simples que exibe as horas, minutos e segundos utilizando ponteiros.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo-Rodrigues&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=dark)
 
 ## Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rodrigues&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
