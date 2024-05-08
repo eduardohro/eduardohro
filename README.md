@@ -1,4 +1,4 @@
-<h1 align="center">-Olá👋, eu sou Eduardo Rodrigues</h1>
+<h1 align="center">- Olá👋, eu sou Eduardo Rodrigues</h1>
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
 - 👨‍💻 All of my projects are available at [https://eduardo-rodrigues.vercel.app/](https://eduardo-rodrigues.vercel.app/)
