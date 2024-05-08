@@ -1,22 +1,8 @@
-<# Olá, eu sou o Eduardo!
+<div align="center">
 
-Este é o meu perfil do GitHub.
+# Bem-vindo ao meu perfil do GitHub!
 
-git add README.md
-git commit -m "Initial commit"
-git push origin master
-
-git checkout -b typing-effect # Cria uma nova branch para os commits do efeito de digitação
-
-git add README.md
-git commit -m "Adicionando 'O'"
-git push origin typing-effect
-
-git add README.md
-git commit -m "Adicionando 'Ol'"
-git push origin typing-effect
-
-# Continue adicionando commits para cada letra
+<h1 id="welcome"></h1>
 
 ## Sobre Mim
 
