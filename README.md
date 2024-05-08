@@ -1,8 +1,34 @@
 <div align="center">
 
-# Bem-vindo ao meu perfil do GitHub!
+# Olá, eu sou o Eduardo!
 
-<h1 id="welcome"></h1>
+</div>
+
+---
+
+<details>
+  <summary>Bem-vindo ao meu perfil do GitHub!</summary>
+
+  <div align="center">
+
+  # Bem-vindo ao meu perfil do GitHub!
+
+  </div>
+
+</details>
+
+---
+
+<details open>
+  <summary>Olá, eu sou o Eduardo!</summary>
+
+  <div align="center">
+
+  # Olá, eu sou o Eduardo!
+
+  </div>
+
+</details>
 
 ## Sobre Mim
 
