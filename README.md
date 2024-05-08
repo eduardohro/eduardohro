@@ -1,3 +1,5 @@
+<div align="center">
+
 # Bem-vindo ao meu perfil do GitHub!
 
 Me chamo Eduardo Rodrigues e sou estudante de Engenharia de Software na UNOPAR em Parauapebas/PA. Estou em busca de oportunidades para obter um estágio na área, aprimorando minhas habilidades e contribuindo para projetos interessantes.
@@ -6,25 +8,24 @@ Me chamo Eduardo Rodrigues e sou estudante de Engenharia de Software na UNOPAR e
 
 Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde estou aprendendo e aplicando HTML, CSS e JavaScript para criar um site responsivo e interativo.
 
-## Projetos em Destaque
-
-- ## Calculadora de IMC (Índice de Massa Corporal)
-
-Uma calculadora simples que permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base no peso e altura fornecidos. O IMC é uma medida utilizada para avaliar se uma pessoa está com peso adequado em relação à sua altura.
-- ## Calculadora Simples
-
-Uma calculadora básica que realiza operações de adição, subtração, multiplicação e divisão. É uma ótima ferramenta para cálculos rápidos do dia a dia.
-
-- ## Relógio Analógico
-
-Um relógio simples que exibe as horas, minutos e segundos utilizando ponteiros. É uma implementação visualmente agradável e funcional de um relógio analógico.
-
 ## Habilidades
 
-- Linguagens de Programação: Java, Python, JavaScript
-- Tecnologias Web: HTML, CSS, Bootstrap
-- Banco de Dados: MySQL, MongoDB
-- Frameworks: Spring Boot, Hibernate
+- Linguagens de Programação: 
+  - <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> Java
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> Python
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> JavaScript
+- Tecnologias Web: 
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> HTML
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> CSS
+  - <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> Bootstrap
+- Banco de Dados: 
+  - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> MySQL
+  - <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> MongoDB
+- Frameworks: 
+  - <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> Spring Boot
+  - <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> Hibernate
+- IDEs: 
+  - <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> vscode
 
 ## Redes Sociais
 
@@ -37,3 +38,5 @@ Um relógio simples que exibe as horas, minutos e segundos utilizando ponteiros.
 ## Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
+
+</div>
