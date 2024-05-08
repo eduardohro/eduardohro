@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu perfil do GitHub!
 
-<h1 id="welcome"></h1>
+Me chamo Eduardo Rodrigues e sou estudante de Engenharia de Software na UNOPAR em Parauapebas/PA. Estou em busca de oportunidades para obter um estágio na área, aprimorando minhas habilidades e contribuindo para projetos interessantes.
 
 ## Sobre Mim
 
@@ -40,3 +40,6 @@ Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
 
 </div>
+
+
+Faça com que o "bem-vindo ao meu perfil do Github!" Aí entrar na página troque para "Olá, eu sou o Eduardo!" E assim vice e verça, que eles apareçam como se tivessem sendo digitados.
