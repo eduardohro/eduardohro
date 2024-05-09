@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rodada+Varela&color=0000FF&size=32&center=true&vCenter=true&width=720&height=50&lines=👋Olá%2C+eu+sou+Eduardo!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
 
