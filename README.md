@@ -36,9 +36,9 @@ Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde 
       <i class="fas fa-envelope"></i> Email: <a href="mailto:rodriguesedu211@gmail.com">rodriguesedu211@gmail.com</a>
     </p>
 
-## Estatísticas do GitHub ## Linguagens Mais Usadas
+## Estatísticas do GitHub e Linguagens Mais Usadas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=dark) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=dark)         ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
 
 </div>
 
