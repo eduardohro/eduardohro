@@ -49,4 +49,3 @@ Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde 
 </div>
 
 
-Faça com que o "bem-vindo ao meu perfil do Github!" Aí entrar na página troque para "Olá, eu sou o Eduardo!" E assim vice e verça, que eles apareçam como se tivessem sendo digitados.
