@@ -1,42 +1,7 @@
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
-
 <div align="center">
-  <h1 id="welcome" style="display: inline;"></h1>
-  <h1 id="name" style="display: none;">Olá, eu sou o Eduardo!</h1>
-  <div>
-    <p>
-      <i class="fas fa-envelope"></i> Email: <a href="mailto:rodriguesedu211@gmail.com">rodriguesedu211@gmail.com</a>
-    </p>
-  </div>
-</div>
-
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: black; }
-  }
-
-  #welcome, #name {
-    border-right: 2px solid black;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: typing 2s steps(30, end), blink-caret 0.5s step-end infinite alternate;
-  }
-</style>
-
-<script>
-  setTimeout(() => {
-    document.getElementById('welcome').style.display = 'none';
-    document.getElementById('name').style.display = 'inline';
-  }, 2000);
-</script>
 
 # Bem-vindo ao meu perfil do GitHub!
 
