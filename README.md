@@ -33,8 +33,8 @@ Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde 
 
 <p>
 <a href="https://www.linkedin.com/in/eduardo-rodrigues-oliveira-28a046241?original_referer=https%3A%2F%2Feduardo-rodrigues%2Evercel%2Eapp%2F&originalSubdomain=br" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
-      <i class="fas fa-envelope"></i> Email: <a href="mailto:rodriguesedu211@gmail.com">rodriguesedu211@gmail.com</a>
-    </p>
+<a href="mailto:rodriguesedu211@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ## Estatísticas do GitHub e Linguagens Mais Usadas
 
