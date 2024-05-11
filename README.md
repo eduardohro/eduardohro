@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rodada+Varela&color=0000FF&size=32&center=true&vCenter=true&width=720&height=50&lines=👋Olá%2C+eu+sou+Eduardo!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rodada+Varela&color=007FFF&size=32&center=true&vCenter=true&width=720&height=50&lines=👋Olá%2C+eu+sou+Eduardo!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
 
 Me chamo Eduardo Rodrigues e sou estudante de Engenharia de Software na UNOPAR em Parauapebas/PA. Estou em busca de oportunidades para obter um estágio na área, aprimorando minhas habilidades e contribuindo para projetos interessantes.
@@ -33,16 +33,12 @@ Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web, onde 
 
 <p>
 <a href="https://www.linkedin.com/in/eduardo-rodrigues-oliveira-28a046241?original_referer=https%3A%2F%2Feduardo-rodrigues%2Evercel%2Eapp%2F&originalSubdomain=br" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
-      <i class="fas fa-envelope"></i> Email: <a href="mailto:rodriguesedu211@gmail.com">rodriguesedu211@gmail.com</a>
-    </p>
+<a href="mailto:rodriguesedu211@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub e Linguagens Mais Usadas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=dark)
-
-## Linguagens Mais Usadas
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=dark)         ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=dark)
 
 </div>
 
