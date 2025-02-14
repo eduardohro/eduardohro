@@ -27,6 +27,6 @@ Atualmente desenvolvo projetos web, aplicando *HTML, CSS e JavaScript* para cria
 ## 📊 Linguagens Mais Utilizadas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=blueberry&hide=issues" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=blueberry" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=blueberry&hide=issues" width="40%" height="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=blueberry" width="40%" height="25%" />
 </p>
