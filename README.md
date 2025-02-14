@@ -24,9 +24,9 @@ Atualmente desenvolvo projetos web, aplicando *HTML, CSS e JavaScript* para cria
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 Estatísticas  
+## 📊 Linguagens Mais Utilizadas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-rodrigues-oliveira&show_icons=true&theme=blueberry&hide=issues" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-rodrigues-oliveira&layout=compact&theme=blueberry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardohro&show_icons=true&theme=blueberry&hide=issues" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohro&layout=compact&theme=blueberry" width="48%" />
 </p>
